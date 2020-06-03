@@ -7,4 +7,5 @@ def find_max_value(array)
     else
       continue
   end
+  puts num
 end
